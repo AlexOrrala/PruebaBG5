@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C05FBFA-D1A1-4284-9733-6CD6585CB2BE}|PruebaPais\\PruebaPais.csproj|c:\\users\\aorrala\\documents\\projectos\\prueba5\\prueba_backend_alex_04022025\\paisesapiprueba5\\pruebapais\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C05FBFA-D1A1-4284-9733-6CD6585CB2BE}|PruebaPais\\PruebaPais.csproj|solutionrelative:pruebapais\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|c:\\users\\aorrala\\documents\\projectos\\prueba5\\prueba_backend_alex_04022025\\paisesapiprueba5\\paisesapiprueba5\\controllers\\paisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|solutionrelative:paisesapiprueba5\\controllers\\paisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|c:\\users\\aorrala\\documents\\projectos\\prueba5\\prueba_backend_alex_04022025\\paisesapiprueba5\\paisesapiprueba5\\services\\paisesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|solutionrelative:paisesapiprueba5\\services\\paisesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|c:\\users\\aorrala\\documents\\projectos\\prueba5\\prueba_backend_alex_04022025\\paisesapiprueba5\\paisesapiprueba5\\models\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|solutionrelative:paisesapiprueba5\\models\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|c:\\users\\aorrala\\documents\\projectos\\prueba5\\prueba_backend_alex_04022025\\paisesapiprueba5\\paisesapiprueba5\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|solutionrelative:paisesapiprueba5\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|c:\\users\\aorrala\\documents\\projectos\\prueba5\\prueba_backend_alex_04022025\\paisesapiprueba5\\paisesapiprueba5\\connected services\\servicereferencecountry\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|solutionrelative:paisesapiprueba5\\connected services\\servicereferencecountry\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|c:\\users\\aorrala\\documents\\projectos\\prueba5\\prueba_backend_alex_04022025\\paisesapiprueba5\\paisesapiprueba5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|solutionrelative:paisesapiprueba5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|c:\\users\\aorrala\\documents\\projectos\\prueba5\\prueba_backend_alex_04022025\\paisesapiprueba5\\paisesapiprueba5\\paisesapiprueba5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{990FD882-4D82-4D03-B551-BBD952230D2E}|PaisesApiPrueba5\\PaisesApiPrueba5.csproj|solutionrelative:paisesapiprueba5\\paisesapiprueba5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Dockerfile",
+              "RelativeDocumentMoniker": "PaisesApiPrueba5\\Dockerfile",
+              "ToolTip": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Dockerfile",
+              "RelativeToolTip": "PaisesApiPrueba5\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-04T21:23:53.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PruebaPais\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PruebaPais\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PruebaPais\\UnitTest1.cs",
+              "RelativeToolTip": "PruebaPais\\UnitTest1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T21:02:31.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Program.cs",
+              "RelativeDocumentMoniker": "PaisesApiPrueba5\\Program.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Program.cs",
+              "RelativeToolTip": "PaisesApiPrueba5\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:00:29.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Connected Services\\ServiceReferenceCountry\\Reference.cs",
+              "RelativeDocumentMoniker": "PaisesApiPrueba5\\Connected Services\\ServiceReferenceCountry\\Reference.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Connected Services\\ServiceReferenceCountry\\Reference.cs",
+              "RelativeToolTip": "PaisesApiPrueba5\\Connected Services\\ServiceReferenceCountry\\Reference.cs",
+              "ViewState": "AgIAAOUCAAAAAAAAAAAkwPoCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:39:25.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaisesServices.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Services\\PaisesServices.cs",
+              "RelativeDocumentMoniker": "PaisesApiPrueba5\\Services\\PaisesServices.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Services\\PaisesServices.cs",
+              "RelativeToolTip": "PaisesApiPrueba5\\Services\\PaisesServices.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:37:03.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paises.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Models\\Paises.cs",
+              "RelativeDocumentMoniker": "PaisesApiPrueba5\\Models\\Paises.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Models\\Paises.cs",
+              "RelativeToolTip": "PaisesApiPrueba5\\Models\\Paises.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:25:19.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaisesController.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Controllers\\PaisesController.cs",
+              "RelativeDocumentMoniker": "PaisesApiPrueba5\\Controllers\\PaisesController.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\Controllers\\PaisesController.cs",
+              "RelativeToolTip": "PaisesApiPrueba5\\Controllers\\PaisesController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:37:33.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaisesApiPrueba5",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\PaisesApiPrueba5.csproj",
+              "RelativeDocumentMoniker": "PaisesApiPrueba5\\PaisesApiPrueba5.csproj",
+              "ToolTip": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PaisesApiPrueba5\\PaisesApiPrueba5.csproj",
+              "RelativeToolTip": "PaisesApiPrueba5\\PaisesApiPrueba5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T19:36:32.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@PaisesApiPrueba5_HostAddress = http://localhost:5139
+
+GET {{PaisesApiPrueba5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

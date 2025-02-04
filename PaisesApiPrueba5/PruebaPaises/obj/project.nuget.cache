@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "raItw7bDGGQ=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\aorrala\\Documents\\Projectos\\Prueba5\\PRUEBA_BACKEND_ALEX_04022025\\PaisesApiPrueba5\\PruebaPaises\\PruebaPaises.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede obtener la información de signatura del repositorio para el origen https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json.\r\n  Error al enviar la solicitud.\r\n  Se ha terminado la conexión: No se puede establecer una relación de confianza para el canal seguro SSL/TLS.\r\n  El certificado remoto no es válido según el procedimiento de validación.",
+      "libraryId": "System.ServiceModel.Http"
+    }
+  ]
+}
